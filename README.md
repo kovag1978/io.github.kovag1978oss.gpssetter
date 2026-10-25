@@ -1,0 +1,1 @@
+# io.github.kovag1978oss.gpssetter
